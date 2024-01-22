@@ -1,5 +1,4 @@
 # bleem
-
 ## Overview
 Bleem is a smart home app designed for seamless connectivity to various devices via Bluetooth and WiFi. It prioritizes home security with features like a robust security system, fire alarm, and remote control for TV, AC, and garden sprinklers.
 
